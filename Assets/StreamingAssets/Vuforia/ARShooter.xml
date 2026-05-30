@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Pistola" size="10.000000 11.914708" />
+    <ImageTarget name="Subfusil" size="10.000000 11.933798" />
+    <ImageTarget name="Objetivo" size="30.000000 35.801395" />
+    <ImageTarget name="Escopeta" size="10.000000 11.906005" />
+  </Tracking>
+</QCARConfig>
