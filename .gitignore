@@ -130,7 +130,7 @@ Thumbs.db
 *.tgz
 *.tar.gz
 Assets/Editor/Migration/
-Assets/Vuforia/
+#Assets/Vuforia/
 
 
 # ===== LARGE FILE SAFETY =====
@@ -139,9 +139,9 @@ Assets/Vuforia/
 *.7z
 *.mp4
 *.mov
-*.fbx
-*.psd
-*.blend
+#*.fbx
+#*.psd
+#*.blend
 
 # ===== UNITY CACHE EXTRA =====
 Packages/PackageCache/
